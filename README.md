@@ -1,2 +1,2 @@
-# Translator-client-
+# Translator-client
 translator app and server on python
